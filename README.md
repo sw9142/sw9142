@@ -5,7 +5,7 @@
 --------------
 
 # 👋 Hi, I’m Naomi
-### 👀 I’m passionate full stack programmer! :) 
+### 👀 I’m a passionate full stack programmer! :) 
 I love create things that people feel easy and enjoy using it. 
 <br/><br />
 🌱  My fav tools: React, Node.js, JavaScript, MongoDB ... 
