@@ -6,6 +6,7 @@ I love create things that people feel easy and enjoy using it.
 <br/><br />
 🌱  My fav tools: React, React Hook, Node.js, JavaScript, MongoDB ... 
 ## 📫 How to reach me ...
+> 📱 phone: 647-937-9142
 > ✨  email: sw9142@gmail.com <br/>
 > 🎨  Portfolio: https://naomi-choi.github.io <br/>
 > 💼 LinkedIn: www.linkedin.com/in/naomi-choi
